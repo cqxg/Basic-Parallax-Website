@@ -57,20 +57,20 @@ body, html {
     font-size:27px;
     letter-spacing:8px;
     text-transform:uppercase;
-  }
+}
   
 .ptext .border {
     background-color:#111;
     color:#fff;
     padding:20px;
-  }
+}
   
 .ptext .border.trans {
     background-color:transparent;
-  }
+}
   
 @media(max-width:568px) {
     .pimg1, .pimg2, .pimg3{
       background-attachment:scroll;
     }
-  }
+}
